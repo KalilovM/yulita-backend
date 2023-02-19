@@ -5,3 +5,5 @@ migrations
 staticfiles
 db.sqlite3
 .env
+src/db.sqlite3
+src/staticfiles/admin/js/vendor/xregexp/xregexp.js

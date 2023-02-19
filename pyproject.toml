@@ -17,6 +17,9 @@ drf-spectacular-sidecar = "^2022.12.1"
 pytest = "^7.2.1"
 
 
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
